@@ -20,7 +20,8 @@ The tool uses the **Pillow** library for image processing. Install it via your t
 ```bash
 pip install Pillow
 ```
-### 📖 How to Use
+
+## 📖 How to Use
 
 ### 🔒 Encrypting an Image
 Click Select Image and choose any photo (.jpg, .png, or .bmp).
